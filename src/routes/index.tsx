@@ -139,7 +139,7 @@ function Hero() {
         width={720}
         height={720}
       />
-      <div className="absolute inset-0 bg-navy-deep/88" />
+      <div className="absolute inset-0 bg-navy-deep/72" />
       <div className="absolute inset-0 bg-gradient-to-r from-navy-deep via-navy-deep/70 to-transparent" />
       <div className="grid-lines absolute inset-0 opacity-40" />
 
