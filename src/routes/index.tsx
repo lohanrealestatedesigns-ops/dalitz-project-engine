@@ -450,7 +450,7 @@ function ContactFooter() {
                 { icon: Phone, label: "Direct line", value: "+234 800 000 0000", href: "tel:+2348000000000" },
                 { icon: MessageCircle, label: "WhatsApp dispatch", value: "Chat with a dispatcher", href: "https://wa.me/2348000000000" },
                 { icon: Mail, label: "Email", value: "projects@dalitzproject.com", href: "mailto:projects@dalitzproject.com" },
-                { icon: MapPin, label: "Head office", value: "Abuja, Nigeria · Nationwide crews" },
+                { icon: MapPin, label: "Head office", value: "Abuja, Nigeria · Nationwide crews", href: "" },
               ].map((c) => (
                 <div key={c.label} className="bg-navy-deep p-7">
                   <span className="label-mono flex items-center gap-3 text-muted-foreground">
